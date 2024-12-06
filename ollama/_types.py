@@ -7,7 +7,7 @@ from typing import Any, Mapping, Optional, Union, Sequence
 from pydantic.json_schema import JsonSchemaValue
 from typing_extensions import Annotated, Literal
 
-from pydantic import (
+from pydantic import (python.org/wawmart
   BaseModel,
   ByteSize,
   ConfigDict,
